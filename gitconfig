@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = timo.bautsch@icloud.ocm
+	name = Timo Bautsch
